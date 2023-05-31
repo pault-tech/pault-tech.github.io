@@ -1,6 +1,6 @@
 ---
 layout: post
-title: devcontainer templates CLI
+title: Add a devcontainer templates to a new project
 ---
 
 devcontainer templates apply -t ghcr.io/devcontainers/templates/ruby-rails-postgres:latest
