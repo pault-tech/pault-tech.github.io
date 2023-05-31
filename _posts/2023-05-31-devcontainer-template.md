@@ -11,3 +11,4 @@ Code snippet to add a devcontainer from the templates project
 
 repo.
 
+See [https://containers.dev/implementors/templates/#referencing-a-template](https://containers.dev/implementors/templates/#referencing-a-template)
