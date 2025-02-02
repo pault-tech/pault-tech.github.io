@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Paul T.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Software Engineer, Data Scientist, Machine Learning Engineer. Santa Monica, California.
 
 ### Contact me
 
