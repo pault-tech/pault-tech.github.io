@@ -8,6 +8,8 @@ Paul T.
 
 ### More Information
 
+Iliwai Technology LLC
+
 Software Engineer, Data Scientist, Machine Learning Engineer. Santa Monica, California.
 
 ### Contact me
